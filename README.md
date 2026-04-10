@@ -1,7 +1,7 @@
 ### UWF
 - **[DONE]** SinCosPosEmbed and cls_tkn, clean up 
 - mae decoder finish up
-- make tensor shapes step through
+- **[DONE]** make tensor shapes step through
 - clean up dataset 
 
 ---
