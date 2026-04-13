@@ -2,10 +2,9 @@
 - **[DONE]** SinCosPosEmbed and cls_tkn, clean up 
 - **[DONE]** mae decoder finish up
 - **[DONE]** make tensor shapes step through
-- **[DONE]** 2D patchify
-- 1D patchify
+- **[DONE]** 1D/2D unfold (called patchify in Kaiming) 
 - loss computation
-- clean up dataset
+- multi-trait training
 - dataloaders set up
 - train
 - design space study using depth
