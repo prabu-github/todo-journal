@@ -4,8 +4,17 @@
 - **[DONE]** make tensor shapes step through
 - **[DONE]** 2D patchify
 - **[DONE]** 1D patchify
-- clean up dataset 
+- loss computation
+- clean up dataset
+- dataloaders set up
+- train
+- design space study using depth
+   
 
 ---
 
 ### MBF1
+- train best hyp model inside outer loop
+- generate predictions with best hyp inside outer loop
+- collate oi stuff and predict with ensemble on new data
+- 
