@@ -3,7 +3,7 @@
 - **[DONE]** mae decoder finish up
 - **[DONE]** make tensor shapes step through
 - **[DONE]** 2D patchify
-- **[DONE]** 1D patchify
+- 1D patchify
 - loss computation
 - clean up dataset
 - dataloaders set up
