@@ -3,7 +3,7 @@
 - **[DONE]** mae decoder finish up
 - **[DONE]** make tensor shapes step through
 - **[DONE]** 1D/2D unfold (called patchify in Kaiming) 
-- loss computation
+- **[DONE]** loss computation
 - multi-trait training
 - dataloaders set up
 - train
