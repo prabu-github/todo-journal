@@ -14,8 +14,18 @@
 
 ---
 
-### MBF1
-- train best hyp model inside outer loop
-- generate predictions with best hyp inside outer loop
-- collate oi stuff and predict with ensemble on new data
-- 
+### MB1
+- train best hyp model inside outer loop 
+- generate outer loop test predictions with best hyp model
+- predict with ensemble on new data; call columns as oi_N
+- collate oi outputs
+- PLSR optuna pipeline on CHTC
+- SPLSR optuna pipeline on CHTC
+- Ridge pipeline on CHTC
+- Lasso pipeline on CHTC
+- ElasticNet pipeline on CHTC
+- SVR with Nystroem on CHTC
+- (S)PLS-RF on CHTC
+- (S)PLS-GPR on CHTC
+- (S)PLS-SVR on CHTC
+- Stacked (S)PLS on CHTC
