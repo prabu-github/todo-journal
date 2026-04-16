@@ -30,3 +30,7 @@
 - (S)PLS-GPR on CHTC
 - (S)PLS-SVR on CHTC
 - Stacked (S)PLS on CHTC
+- **[DONE]** Make it model-bakeoff-1
+- **[DONE]** Make hytoptpyt conda env locally, delete older envs
+- **[DONE]** Make .sif container with optuna
+- **[DONE]** Make .sif container with optuna + pytorch
