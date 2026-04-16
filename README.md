@@ -14,7 +14,7 @@
 
 ---
 
-### MB1
+### MBS
 - train best hyp model inside outer loop 
 - generate outer loop test predictions with best hyp model
 - predict with ensemble on new data; call columns as oi_N
