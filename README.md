@@ -24,6 +24,7 @@
 
 <details>
 <summary>model-bakeoff</summary>
+  
 - set up the dataset
 - train best hyp model inside outer loop 
 - generate outer loop test predictions with best hyp model
