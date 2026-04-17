@@ -1,3 +1,4 @@
+<details>
 ### UWF
 - **[DONE]** SinCosPosEmbed and cls_tkn, clean up 
 - **[DONE]** mae decoder finish up
@@ -16,7 +17,7 @@
 - dataloaders set up for GHS
 - train
 - comment code for MAE
-   
+</details>   
 
 ---
 
