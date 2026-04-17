@@ -1,5 +1,5 @@
 <details>
-<summary>UWF</summary>
+<summary>uw-forward</summary>
 
 - **[DONE]** SinCosPosEmbed and cls_tkn, clean up 
 - **[DONE]** mae decoder finish up
@@ -22,7 +22,8 @@
 
 ---
 
-### MBS
+<details>
+<summary>model-bakeoff</summary>
 - set up the dataset
 - train best hyp model inside outer loop 
 - generate outer loop test predictions with best hyp model
@@ -42,3 +43,4 @@
 - **[DONE]** Make hytoptpyt conda env locally, delete older envs
 - **[DONE]** Make .sif container with optuna
 - **[DONE]** Make .sif container with optuna + pytorch
+</details>
