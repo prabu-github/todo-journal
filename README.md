@@ -7,6 +7,9 @@
 - **[DONE]** step through pretraining to verify shapes in GHS
 - **[DONE]** add encode function
 - **[DONE]** early stopping (as TrainMonitor)
+- **[DONE]** walk through GHS fine tuning code (found it confusing!)
+- implement custom head
+- implement nan aware head loss
 - random weight initialization
 - pretrained weight initialization
 - fine tuning code from GHS
