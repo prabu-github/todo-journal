@@ -44,4 +44,25 @@
 - **[DONE]** Make hytoptpyt conda env locally, delete older envs
 - **[DONE]** Make .sif container with optuna
 - **[DONE]** Make .sif container with optuna + pytorch
+</details> 
+
+<details>
+  <summary>kyle-models</summary>
+
+  - make toy dataset for CWM
+  - implement CWM logic
+  - make sure CSVDataset works for both CWM and regular
+  - setup pipeline on local machine with hytoptpyt env
+  - scale on CHTC with hytoptpyt
+  - pull on nibbler
 </details>
+
+<details>
+  <summary>sophia-lakeview</summary>
+  
+  - make project.py with new dataset
+  - setup pipeline on local machine with hytoptpyt env
+  - scale on CHTC with hytoptpyt
+  - pull on nibbler
+</details>
+
